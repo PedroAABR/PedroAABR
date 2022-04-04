@@ -1,6 +1,6 @@
 ## Bem-vindo(a) ao perfil do Pedro Augusto.
 
- Meu nome é Pedro Augusto Alves Brandão, tenho 19 anos. 
+ Meu nome é Pedro Brandão,  
  
  <br>
  
