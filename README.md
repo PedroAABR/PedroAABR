@@ -17,7 +17,7 @@ No meu perfil do GitHub, você encontrará alguns dos meus projetos pessoais e t
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" widht="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" widht="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" widht="50" height="50" />
-  <img src="https://icons8.com/icon/33039/amazon-web-services" x="0px" y="0px" width="100" height="100" viewBox="0 0 48 48" />
+  <img src="https://github.com/PedroAABR/PedroAABR/assets/101150972/e1e7c5d2-4f0e-49a0-b7ef-39b571d91515" x="0px" y="0px" width="100" height="100" viewBox="0 0 48 48" />
 
                    
           
