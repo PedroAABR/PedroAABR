@@ -12,7 +12,7 @@ No meu perfil do GitHub, você encontrará alguns dos meus projetos pessoais e t
   
   <div>
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" widht="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" widht="50" height="50" /> ""
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" widht="50" height="50" />             
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" widht="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" widht="50" height="50" />
