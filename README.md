@@ -1,8 +1,8 @@
 ## Bem-vindo(a) ao perfil do Pedro Brandão.
 
 Olá, seja bem-vindo(a) ao meu perfil do GitHub!
-Meu nome é Pedro Augusto, e sou um analista e desenvolvedor de sistemas apaixonado por tecnologia e inovação. Tenho 1 ano de experiência em programação e trabalhei em vários projetos pessoais e universitários.
-Sou especializado em back-end e banco de dados, e estou sempre buscando aprender novas tecnologias e linguagens de programação para me manter atualizado e eficiente.
+Meu nome é Pedro Augusto, e sou um desenvolvedor de softwares apaixonado por tecnologia e inovação. Tenho 1 ano de experiência em programação e trabalhei em vários projetos pessoais e universitários.
+Busco especialização na área de AWS e CyberSecurit, e estou sempre buscando aprender novas tecnologias e linguagens de programação para me manter atualizado e eficiente.
 No meu perfil do GitHub, você encontrará alguns dos meus projetos pessoais e trabalhos colaborativos, onde mostro minhas habilidades em diferentes linguagens de programação e áreas de atuação. Espero que goste do que verá e, caso precise de ajuda em algum projeto, sinta-se à vontade para entrar em contato comigo.
 
 
