@@ -17,11 +17,10 @@ No meu perfil do GitHub, você encontrará alguns dos meus projetos pessoais e t
   <img src="https://github.com/PedroAABR/PedroAABR/assets/101150972/e1e7c5d2-4f0e-49a0-b7ef-39b571d91515" width="50" height="50" />       
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" widht="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" widht="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" widht="50" height="50" />
   <img src="https://github.com/PedroAABR/PedroAABR/assets/101150972/e3c56906-75cb-4b97-9be4-da87d3c674cb" widht="50" height="50" />
   <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" widht="50" height="50" />
   <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="100" height="100" viewBox="0 0 48 48">
-  <svg xmlns="https://img.icons8.com/?size=100&id=13654&format=png&color=000000" x="0px" y="0px" width="100" height="100" viewBox="0 0 48 48">
+  <img src="https://img.icons8.com/?size=100&id=13654&format=png&color=000000" widht="50" height="50" />
           
   <div>      
 
