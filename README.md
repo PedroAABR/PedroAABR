@@ -1,8 +1,8 @@
 ## Bem-vindo(a) ao perfil do Pedro Brandão.
 
 Olá, seja bem-vindo(a) ao meu perfil do GitHub!
-Meu nome é Pedro Augusto, e sou um desenvolvedor de softwares apaixonado por tecnologia e inovação. Tenho 1 ano de experiência em programação e trabalhei em vários projetos pessoais e universitários.
-Atualmente estou buscando especialização na área de AWS e CyberSecurit, atraves das certificações de AWS Certified Cloud Practitioner e Ethical Hacker, estou sempre buscando aprender novas tecnologias e linguagens de programação para me manter atualizado e eficiente.
+Meu nome é Pedro Augusto, e sou um aspirante a cientista de dados apaixonado por tecnologia e inovação. Tenho 1,6 ano de experiência de trabalho, relacionado as áreas administritivas e utilizando programas como Excel e Power BI, além de ter feitas alguns projetos pessoais e universitários envolvendo a linguagem de Programação Python, bibliotecas Python(pandas, matplolib, seaborn e scikit-learn), AWS e SQL.
+Atualmente estou buscando me especializar na área de Ciência de Dados e Intêligencia Artificial, estou sempre buscando aprender novas tecnologias e linguagens de programação para me manter atualizado e eficiente.
 No meu perfil do GitHub, você encontrará alguns dos meus projetos pessoais e trabalhos colaborativos, onde mostro minhas habilidades em diferentes linguagens de programação e áreas de atuação. Espero que goste do que verá e, caso precise de ajuda em algum projeto, sinta-se à vontade para entrar em contato comigo.
 
 
