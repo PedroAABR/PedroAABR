@@ -11,7 +11,7 @@ No meu GitHub, você encontrará projetos completos que demonstram minha evoluç
   ### 🌟 Principais linguagens e conhecimentos
   
   <div>
-<img src ="![image](https://github.com/user-attachments/assets/389c04a0-16ab-4557-b48c-9ab7b6ccae42)" widht="50" height="50"/>
+<img src ="[![image](https://github.com/user-attachments/assets/389c04a0-16ab-4557-b48c-9ab7b6ccae42)](https://img.icons8.com/?size=100&id=l75OEUJkPAk4&format=png&color=000000)" widht="50" height="50"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg " width="50" height="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg " width="50" height="50" />
