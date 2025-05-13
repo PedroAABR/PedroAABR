@@ -40,8 +40,10 @@ Cursos em Andamento:
  
 <div> 
  
-LinkedIn: pedroaugustoabrandao
+LinkedIn: [pedroaugustoabrandao](https://www.linkedin.com/in/pedroaugustoabrandao/)
+
 Instagram: @pedrobrandao152
+
 E-mail: pedroaugustoabrandao@gmail.com
  
 </div>
