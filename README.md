@@ -20,7 +20,7 @@ No meu GitHub, você encontrará projetos completos que demonstram minha evoluç
 <img src ="https://img.icons8.com/?size=100&id=38561&format=png&color=000000" widht="50" height="50"/>
 <img src ="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" widht="50" height="50"/>
 <img src ="https://img.icons8.com/?size=100&id=13654&format=png&color=000000" widht="50" height="50"/>
-<img src ="[https://brandfetch.com/langchain.com?view=library&library=default&collection=logos&asset=id12EQi2QW&utm_source=https%253A%252F%252Fbrandfetch.com%252Flangchain.com&utm_medium=copyAction&utm_campaign=brandPageReferral](https://www.google.com/url?sa=i&url=https%3A%2F%2Fseeklogo.com%2Fvector-logo%2F528369%2Flangchain&psig=AOvVaw31gesQT730HwUgpwoQ8dUI&ust=1747243496511000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOClzbH7oI0DFQAAAAAdAAAAABAE)" widht="50" height="50"/>
+<img src =""<svg fill="![langchain](https://github.com/user-attachments/assets/79dd5f7a-3c87-4c72-8d51-3c884a624ae8)" widht="50" height="50"/>
 <img src ="" widht="50" height="50"/>
 <img src ="" widht="50" height="50"/>
 
