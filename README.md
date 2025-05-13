@@ -12,18 +12,15 @@ No meu GitHub, você encontrará projetos completos que demonstram minha evoluç
   
   <div>
 <img src ="https://img.icons8.com/?size=100&id=l75OEUJkPAk4&format=png&color=000000" widht="50" height="50"/>
+<img src ="https://img.icons8.com/?size=100&id=33039&format=png&color=000000" widht="50" height="50"/>
+<img src ="" widht="50" height="50"/>
+<img src ="" widht="50" height="50"/>
+<img src ="" widht="50" height="50"/>
+<img src ="" widht="50" height="50"/>
+<img src ="" widht="50" height="50"/>
+<img src ="" widht="50" height="50"/>
+<img src ="" widht="50" height="50"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg " width="50" height="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg " width="50" height="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg " width="50" height="50" />
-<img src="https://github.com/PedroAABR/PedroAABR/assets/101150972/e3c56906-75cb-4b97-9be4-da87d3c674cb " width="50" height="50" />
-<img src="https://github.com/PedroAABR/PedroAABR/assets/101150972/8850d060-c73e-424c-a200-e02a39566fb3 " width="50" height="50" />
-<img src="https://github.com/PedroAABR/PedroAABR/assets/101150972/c6cb9c81-011a-4033-b203-50e65bfbbf65 " width="50" height="50" />
-<img src="https://github.com/PedroAABR/PedroAABR/assets/101150972/e1e7c5d2-4f0e-49a0-b7ef-39b571d91515 " width="50" height="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg " width="50" height="50" />
-<img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg " width="50" height="50" />
-<img src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000 " width="50" height="50" />
-<img src="https://img.icons8.com/?size=100&id=qYfwpsRXEcpc&format=png&color=000000 " width="50" height="50" />
 </div>
 
 ### 📂 Projetos em Destaque
