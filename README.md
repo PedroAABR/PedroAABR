@@ -30,6 +30,7 @@ No meu GitHub, você encontrará projetos completos que demonstram minha evoluç
 ### 🎓 Educação e Certificações
 
 PUC Goiás
+
 Análise e Desenvolvimento de Sistemas | 2023 – Em andamento
 
 Cursos em Andamento:
