@@ -29,8 +29,8 @@ No meu GitHub, você encontrará projetos completos que demonstram minha evoluç
 
 ### 🎓 Educação e Certificações
 
-Análise e Desenvolvimento de Sistemas
-Faculdade Anhanguera | 2023 – Em andamento
+PUC Goiás
+Análise e Desenvolvimento de Sistemas | 2023 – Em andamento
 
 Cursos em Andamento:
  
@@ -41,8 +41,6 @@ Cursos em Andamento:
 <div> 
  
 LinkedIn: [pedroaugustoabrandao](https://www.linkedin.com/in/pedroaugustoabrandao/)
-
-Instagram: @pedrobrandao152
 
 E-mail: pedroaugustoabrandao@gmail.com
  
