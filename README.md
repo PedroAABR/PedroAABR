@@ -20,7 +20,7 @@ No meu GitHub, você encontrará projetos completos que demonstram minha evoluç
 <img src ="https://img.icons8.com/?size=100&id=38561&format=png&color=000000" widht="50" height="50"/>
 <img src ="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" widht="50" height="50"/>
 <img src ="https://img.icons8.com/?size=100&id=13654&format=png&color=000000" widht="50" height="50"/>
-<img src =""<svg fill="![langchain](https://github.com/user-attachments/assets/79dd5f7a-3c87-4c72-8d51-3c884a624ae8)" widht="50" height="50"/>
+<img src ="https://img.icons8.com/?size=100&id=sop9ROXku5bb&format=png&color=000000" widht="50" height="50"/>
 <img src ="" widht="50" height="50"/>
 <img src ="" widht="50" height="50"/>
 
