@@ -13,13 +13,17 @@ No meu GitHub, você encontrará projetos completos que demonstram minha evoluç
   <div>
 <img src ="https://img.icons8.com/?size=100&id=l75OEUJkPAk4&format=png&color=000000" widht="50" height="50"/>
 <img src ="https://img.icons8.com/?size=100&id=33039&format=png&color=000000" widht="50" height="50"/>
+<img src ="https://img.icons8.com/?size=100&id=qYfwpsRXEcpc&format=png&color=000000" widht="50" height="50"/>
+<img src ="https://img.icons8.com/?size=100&id=SruJhzn0nnLl&format=png&color=000000" widht="50" height="50"/>
+<img src ="https://img.icons8.com/?size=100&id=Rffi8qeb2fK5&format=png&color=000000" widht="50" height="50"/>
+<img src ="https://img.icons8.com/?size=100&id=J6KcaRLsTgpZ&format=png&color=000000" widht="50" height="50"/>
+<img src ="https://img.icons8.com/?size=100&id=38561&format=png&color=000000" widht="50" height="50"/>
+<img src ="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" widht="50" height="50"/>
+<img src ="https://img.icons8.com/?size=100&id=13654&format=png&color=000000" widht="50" height="50"/>
 <img src ="" widht="50" height="50"/>
 <img src ="" widht="50" height="50"/>
 <img src ="" widht="50" height="50"/>
-<img src ="" widht="50" height="50"/>
-<img src ="" widht="50" height="50"/>
-<img src ="" widht="50" height="50"/>
-<img src ="" widht="50" height="50"/>
+
 
 </div>
 
