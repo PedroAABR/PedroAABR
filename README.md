@@ -28,10 +28,13 @@ No meu GitHub, você encontrará projetos completos que demonstram minha evoluç
 <img src ="https://github.com/PedroAABR/Icones/blob/main/assets/icons/langgraph-color.png" widht="50" height="50"/>
 </div>
 
+<br>
 
 ## 🎓 Formação
 **Análise e Desenvolvimento de Sistemas**
+
 **PUC Goiás**
+
 *2023 – Atual*
 
 
