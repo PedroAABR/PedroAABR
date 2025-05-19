@@ -48,5 +48,6 @@ No meu GitHub, você encontrará projetos completos que demonstram minha evoluç
 ### 📬 Contato
  
 LinkedIn: [pedroaugustoabrandao](https://www.linkedin.com/in/pedroaugustoabrandao/)
+
 E-mail: pedroaugustoabrandao@gmail.com
 
