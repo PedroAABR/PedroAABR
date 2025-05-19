@@ -29,17 +29,23 @@ No meu GitHub, você encontrará projetos completos que demonstram minha evoluç
 <img src ="https://github.com/PedroAABR/Icones/blob/main/assets/icons/langchain-color.png" widht="50" height="50"/>
 <img src ="https://github.com/PedroAABR/Icones/blob/main/assets/icons/langgraph-color.png" widht="50" height="50"/>
 </div>
+
 ---
+
 ## 🎓 Formação e Cursos
 
 ### 📘 PUC Goiás
 **Análise e Desenvolvimento de Sistemas**  
 *2023 – Atual*
+
 ---
+
 ### 📚 Cursos Relevantes
 - **Agentes Autônomos com IA Generativa** – I2A2 *(Em andamento)*  
-- **Prompts Inteligentes** – DIO + Microsoft *(Em andamento)*  
+- **Prompts Inteligentes** – DIO + Microsoft *(Em andamento)*
+  
 ---
+
 ### 📬 Contato
  
 LinkedIn: [pedroaugustoabrandao](https://www.linkedin.com/in/pedroaugustoabrandao/)
