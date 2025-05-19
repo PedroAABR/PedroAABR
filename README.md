@@ -11,7 +11,7 @@ No meu GitHub, você encontrará projetos completos que demonstram minha evoluç
 ## 💼 Projetos em Destaque
 
  
-### 🌟 Principais linguagens e conhecimentos
+## 🌟 Principais linguagens e conhecimentos
   
 <div>
 <img src ="https://img.icons8.com/?size=100&id=l75OEUJkPAk4&format=png&color=000000" widht="50" height="50"/>
@@ -28,7 +28,6 @@ No meu GitHub, você encontrará projetos completos que demonstram minha evoluç
 <img src ="https://github.com/PedroAABR/Icones/blob/main/assets/icons/langgraph-color.png" widht="50" height="50"/>
 </div>
 
-<br>
 
 ## 🎓 Formação
 **Análise e Desenvolvimento de Sistemas**
@@ -39,10 +38,9 @@ No meu GitHub, você encontrará projetos completos que demonstram minha evoluç
 
 
 ## 📚 Cursos Relevantes
-- **Agentes Autônomos com IA Generativa** – I2A2 *(Em andamento)*  
+- **Agentes Autônomos com IA Generativa** – I2A2 *(Em andamento)*
 - **Prompts Inteligentes** – DIO + Microsoft *(Em andamento)*
   
----
 
 ## 📬 Contato
  
