@@ -13,6 +13,7 @@ No meu GitHub, você encontrará projetos completos que demonstram minha evoluç
 
 ---
  <br>
+ 
 ### 🌟 Principais linguagens e conhecimentos
   
 <div>
