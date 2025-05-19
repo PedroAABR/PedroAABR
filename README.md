@@ -29,23 +29,18 @@ No meu GitHub, você encontrará projetos completos que demonstram minha evoluç
 
 ### 📂 Projetos em Destaque
 
-### 🎓 Educação e Certificações
+## 🎓 Formação e Cursos
 
-### PUC Goiás
+### 📘 PUC Goiás
+**Análise e Desenvolvimento de Sistemas**  
+*2023 – Atual*
 
-- Análise e Desenvolvimento de Sistemas | 2023 – Em andamento
+### 📚 Cursos Relevantes
+- **Agentes Autônomos com IA Generativa** – I2A2 *(Em andamento)*  
+- **Prompts Inteligentes** – DIO + Microsoft *(Em andamento)*  
 
-### Cursos:
-- Microsoft 50 Anos - Prompts Inteligentes | DIO | 2025 - Em andamento
-- Agentes Autônomos com IA Generativa | I2A2 | 2025 - Em andamento
- <br>
- 
-  ### 📬 Contato
- 
-<div> 
+### 📬 Contato
  
 LinkedIn: [pedroaugustoabrandao](https://www.linkedin.com/in/pedroaugustoabrandao/)
-
 E-mail: pedroaugustoabrandao@gmail.com
- 
-</div>
+
