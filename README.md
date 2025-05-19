@@ -33,10 +33,11 @@ No meu GitHub, você encontrará projetos completos que demonstram minha evoluç
 
 ### PUC Goiás
 
-Análise e Desenvolvimento de Sistemas | 2023 – Em andamento
+- Análise e Desenvolvimento de Sistemas | 2023 – Em andamento
 
-### Cursos em Andamento:
- 
+### Cursos:
+- Microsoft 50 Anos - Prompts Inteligentes | DIO | 2025 - Em andamento
+- Agentes Autônomos com IA Generativa | I2A2 | 2025 - Em andamento
  <br>
  
   ### 📬 Contato
