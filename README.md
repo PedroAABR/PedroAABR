@@ -1,8 +1,10 @@
 ## 🚀 Sobre Mim
 
-Olá! Sou Pedro Augusto Brandão, estudante de Análise e Desenvolvimento de Sistemas e aspirante a Cientista de Dados com foco em **IA Generativa**. Estou em uma jornada intensa de aprendizado prático com **Machine Learning**, **Big Data**, **LangChain**, **AWS**, **Databricks** e **Modelos Multimodais (VLMs)**.
+Olá! Sou Pedro Augusto A. Brandão , aluno de Análise e Desenvolvimento de Sistemas e aspirante a Cientista de Dados especializado em **IA Generativa**. Atualmente mergulho diariamente em uma jornada de aprendizado em **Machine Learning**, **Big Data** e **Agentes Inteligentes**, com projetos práticos em **Python**, **AWS**, **Databricks**, **LangChain** e **VLMs (Modelos Visão e Linguagem)**.
 
-Atualmente aplico meus conhecimentos em projetos com **agentes autônomos**, **visualização de dados com Power BI**, e **pipelines em PySpark**, sempre com documentação clara e integração com ferramentas profissionais como **MLflow** e **Amazon Bedrock**.
+Com experiência em análise administrativa usando **Excel** e **Power BI** , estou expandindo minhas habilidades para dominar tecnologias como **Hugging Face**, **Amazon Bedrock**, **LangGraph** e **PySpark**, aplicando-as em projetos reais de **IA** e **Big Data**.
+
+No meu GitHub, você encontrará projetos completos que demonstram minha evolução técnica, desde análises exploratórias até agentes autônomos multimodais. Todos os projetos incluem documentação detalhada, instruções de execução e integração com ferramentas profissionais como **Databricks**, **AWS** e **MLflow**.
 
 ---
 
