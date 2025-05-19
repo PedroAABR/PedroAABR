@@ -7,7 +7,6 @@ Com experiência em análise administrativa usando **Excel** e **Power BI** , es
 No meu GitHub, você encontrará projetos completos que demonstram minha evolução técnica, desde análises exploratórias até agentes autônomos multimodais. Todos os projetos incluem documentação detalhada, instruções de execução e integração com ferramentas profissionais como **Databricks**, **AWS** e **MLflow**.
 
 ---
-<br>
 
 ## 💼 Projetos em Destaque
 
